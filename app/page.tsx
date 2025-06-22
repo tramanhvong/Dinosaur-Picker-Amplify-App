@@ -18,7 +18,7 @@ export default function App() {
 
   const [month, setMonth] = useState("january");
 
-  const renderDinosaur = (month) => {
+  const renderDinosaur = (month: String) => {
     month = month.toLowerCase();
     const container = document.getElementsByClassName("dinosaurPlaceholder")[0];
     const root = ReactDOM.createRoot(container)
