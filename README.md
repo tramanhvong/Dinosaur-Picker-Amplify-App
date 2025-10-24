@@ -29,6 +29,7 @@ This is a small Next.js app using the App Router that focuses on simple, kid-fri
 ## Tech stack
 - Next.js (App Router)
 - HTML & CSS
+- JavaScript & TypeScript
 - AWS Amplify (hosting)
 
 ## Getting started
